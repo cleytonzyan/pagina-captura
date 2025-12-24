@@ -28,7 +28,7 @@ export default function Home() {
               <Zap className="w-6 h-6 text-white" />
             </div>
             <span className="text-2xl font-bold bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">
-              Brendi
+              Teste
             </span>
           </div>
           <button className="hidden sm:block px-6 py-2 bg-gradient-to-r from-purple-600 to-blue-600 text-white rounded-full font-semibold hover:shadow-lg hover:scale-105 transition-all duration-300">
@@ -305,9 +305,9 @@ export default function Home() {
             <div className="w-10 h-10 bg-gradient-to-br from-purple-600 to-blue-600 rounded-lg flex items-center justify-center">
               <Zap className="w-6 h-6 text-white" />
             </div>
-            <span className="text-2xl font-bold text-white">Brendi</span>
+            <span className="text-2xl font-bold text-white">Teste</span>
           </div>
-          <p className="mb-4">© 2024 Brendi. Todos os direitos reservados.</p>
+          <p className="mb-4">© 2024 Teste. Todos os direitos reservados.</p>
           <div className="flex justify-center gap-6 text-sm">
             <a href="#" className="hover:text-white transition-colors">Termos de Uso</a>
             <a href="#" className="hover:text-white transition-colors">Política de Privacidade</a>
